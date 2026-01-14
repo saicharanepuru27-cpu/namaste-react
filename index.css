@@ -1,0 +1,39 @@
+.logo{
+    width:190px;
+    padding: 5px 5px 5px 5px;
+    
+}
+.headercomponet{
+    display: flex;
+    border:1px solid black;
+    justify-content:space-between
+}
+.list{
+    display:flex;
+    list-style-type: none;
+
+}
+.Items>ul>li{
+    padding: 10px;
+    margin:5px;
+}
+.card{
+    margin:5px;
+    width:250px;
+    border:1px solid black;
+    background-color:lightgrey;
+}
+
+.body{
+    padding: 10px;
+    border:1px solid black;
+}
+.resto-Container{
+    display: flex;
+    flex-wrap: wrap;
+}
+.body{
+    margin:5px;
+    display: flex;
+    flex-wrap:wrap;
+}
